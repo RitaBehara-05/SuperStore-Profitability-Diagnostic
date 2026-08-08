@@ -10,6 +10,7 @@ Which categories and sub-categories are the strongest profit generators?
 Where are discounts negatively impacting margins?
 Which areas are performing below the average profit benchmark?
 Which order segments contribute most to overall profitability?
+
 🎯 Business Objectives
 
 The primary objectives of this analysis were to:
@@ -20,6 +21,7 @@ Compare sales performance with actual profit contribution.
 Evaluate the impact of discounting on profitability.
 Identify high-performing and underperforming product segments.
 Generate actionable insights for improving profitable growth.
+
 🔍 Key Analysis Areas
 1. Profitability by Region
 
@@ -61,6 +63,7 @@ Discounting needs to be evaluated based on incremental volume versus margin sacr
 Product mix has a significant impact on overall profitability.
 Regional performance should be evaluated using both sales and profit, rather than sales alone.
 Identifying high-margin products and segments can help businesses focus on profitable growth rather than revenue growth alone.
+
 🛠️ Tools & Skills
 Tableau
 Excel
@@ -71,6 +74,7 @@ Data Visualization
 KPI Analysis
 Business Storytelling
 Strategic Business Insights
+
 📈 Project Outcome
 
 This project demonstrates how raw transactional data can be transformed into actionable business insights by moving beyond descriptive reporting and asking deeper diagnostic questions:
